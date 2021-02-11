@@ -4,7 +4,7 @@
 
 
 ### Overview
-This project is a coded version of an originally drawn self portrait on paper.
+This project is a coded version on p5.js of an originally drawn self portrait on paper.
 
 
 ### Technical Details
